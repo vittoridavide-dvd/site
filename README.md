@@ -1,4 +1,4 @@
-# davidevittori.xyz
+# davidevittori
 
 Personal academic website for Davide Vittori — static HTML/CSS/JS, no build step.
 
